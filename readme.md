@@ -1,4 +1,5 @@
-## Hello Git, Grrr
+## Welcome to GIT
 
+- This is coming from dev sam
 - Im adding this from feature dranch
 - Hey whatsup
